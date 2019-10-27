@@ -1,0 +1,22 @@
+{
+  "name": "netlify-playground",
+  "version": "1.0.0",
+  "description": "Learning how to make node serverless functions on Netlify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grimb300/netlify-playground.git"
+  },
+  "author": "Bob Grim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grimb300/netlify-playground/issues"
+  },
+  "homepage": "https://github.com/grimb300/netlify-playground#readme",
+  "devDependencies": {
+    "netlify-lambda": "^1.6.3"
+  }
+}
